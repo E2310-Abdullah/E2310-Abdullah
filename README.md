@@ -1,24 +1,23 @@
-## Abdullah Cuneyd Unal
+<!-- I added some icons to make my profile interesting -->
 
-[email@me](mailto:greencityteam16@gmail.com)
+# 🌟 Hello! I'm Godsway Natam 🌟
 
-[LinkedIn](https://www.linkedin.com/in/abdullahcuneydunal/)
+## 🌱 About Me
 
-I'm a **curious learner** exploring the fascinating world of data science while living life to the fullest with my passions for swimming, music, and creativity. 🎵🏊‍♂️✨
+Passion for Sustainability Accounting Research and Data Science.
 
-## 🎶 Insterest Me
-- 🌊 **Swimmer:** I find my flow both in water and in life. Swimming keeps me energized and focused. 🏊‍♂️
-- 🎸 **Music Enthusiast:** I play the guitar and flute and love singing in live music groups. Music is my way of connecting with the world.
-- 🚀 **Aspiring Data Scientist:** Currently diving deep into data science, learning how to transform data into stories and insights.
+## 🛠️ Skills & Tools
 
-- 🎯 **Future Goals:**
-  - Contribute to open-source projects in data science and music tech.
-  - Create visualizations or dashboards to tell stories with data.
+- Accounting Pedagogy
+- Data Science Foundations (Python, R, SQL, SPSS)
+- Data Analysis & Visualization (Pandas, Matplotlib, Tableau)
+- Sustainability Reporting
 
-### Music Skills
-- Guitar 🎸, Flute 🎼, Singing 🎤
+## 🎯 Let's Collaborate
 
-## 🎵 Fun Extras
+I'm always eager to team up on:
 
-- ![Fun GIF](https://media.giphy.com/media/l0MYGBZ8p9x7ebz8M/giphy.gif)
+- **DATA projects** addressing real-world problems 🌍
+- **Open-source innovations** 🤝
+- **Creative initiatives**
 
