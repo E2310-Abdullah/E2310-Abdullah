@@ -25,10 +25,4 @@ I'm a **curious learner** exploring the fascinating world of data science while 
 
 ---
 
-## 🎵 Fun Extras
 
-![Fun GIF](https://media.giphy.com/media/l0MYGBZ8p9x7ebz8M/giphy.gif)
-
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahcuneydunal&show_icons=true)
