@@ -4,7 +4,9 @@
 
 [LinkedIn](https://www.linkedin.com/in/abdullahcuneydunal/)
 
-I'm a **curious learner** exploring the fascinating world of data science while living life to the fullest with my passions for swimming, music, and creativity. 🎵🏊‍♂️✨
+I'm a **curious learner** exploring the fascinating world of data science 
+while living life to the fullest with my passions 
+for swimming, music, and creativity.🎵🏊‍♂️✨
 
 ---
 
